@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Leonardo.
  
-- 👀 I’m interested in data analytics and their business and marketing insights.
+- 👀 Interested in data analytics, businesses and marketing insights.
  
-- 🌱 I’m currently learning data science at DNC Group, developing skills in Python, SQL, Data Visualization, Agile Methodologies, Database and others.
+- 🌱 A lifelong learner specializing in marketing analytics and growth.
 
 - 💞️ I’m looking to collaborate on data analysis projects, also I'll post my personal projects here.
  
